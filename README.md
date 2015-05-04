@@ -2,7 +2,8 @@
 全国省市县（区）三级联动插件
 # 使用
 ++++++++++++++++
-<div class="form-group" id="dz">
+
+'<div class="form-group" id="dz">
 	<label class="control-label col-sm-4">地址</label>
 	<div class="input-group col-sm-8">
 		<span class="input-group-addon"><i class="fa fa-road"></i></span>
@@ -25,5 +26,5 @@
 	$(function(){
 		$("#dz").city();
 	});
-</script>
+</script>'
 +++++++++++++++++
