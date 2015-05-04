@@ -1,6 +1,7 @@
 # city
 全国省市县（区）三级联动插件
 # 使用
+++++++++++++++++
 <div class="form-group" id="dz">
 	<label class="control-label col-sm-4">地址</label>
 	<div class="input-group col-sm-8">
@@ -25,3 +26,4 @@
 		$("#dz").city();
 	});
 </script>
++++++++++++++++++
